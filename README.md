@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm hobobandy 👋
 
-<!--
-**hobobandy/hobobandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and the open-source community.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C#/.NET 8+
+- 📫 How to reach me: [Mastodon](https://defcon.social/@hobobandy)
+
+## 🚀 Skills
+
+- **Languages:**
+  - Python
+  - Web Languages (HTML5/CSS3/JavaScript)
+  - C# (Beginner)
+
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
