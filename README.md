@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 💻 About Me
 
 - 🌱 I’m currently learning C#/.NET 8+
-- 📫 How to reach me: [Mastodon](https://defcon.social/@hobobandy)
 
 ## 🚀 Skills
 
