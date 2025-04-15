@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 💻 About Me
 
-- 🌱 I’m currently learning C#/.NET 8+
+- 🌱 I’m currently learning C#/.NET 9+ and React.
 
 ## 🚀 Skills
 
@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   - Python
   - Web Languages (HTML5/CSS3/JavaScript)
   - C# (Beginner)
+  - React (Beginner)
  
 ## :bar_chart: Stats
 
